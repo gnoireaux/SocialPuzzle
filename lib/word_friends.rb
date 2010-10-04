@@ -1,5 +1,5 @@
 class WordFriends
-  def initialize(word)
+  def initialize(word, list)
     
   end
 
